@@ -1,6 +1,7 @@
 # OS_Project
 
 **Author:** Nishtha Mehta
+Anureet kaur
 
 This repository contains an implementation of various CPU scheduling algorithms as part of an Operating Systems project.
 
